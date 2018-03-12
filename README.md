@@ -1,4 +1,4 @@
 # AlahsaTechcomm
 
 
-Welcome in AlahsaTechcomm
+Welcome in AlahsaTechcomm repository.
